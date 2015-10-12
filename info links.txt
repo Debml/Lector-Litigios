@@ -1,0 +1,20 @@
+Estado (circuito) - nuevo leon (cuarto)
+Organo jurisdiccional (juzgado) - Tercer Tribunal Colegiado en Materia Civil
+tipo de expediente - amparo directo ME FALTA
+numero de expediente - 156/2015
+ 
+
+http://www.dgepj.cjf.gob.mx/internet/expedientes/ExpedienteyTipo.asp?
+
+TipoAsunto=10& (segundo serach, amparo directo)
+TipoProcedimiento=979& (segundo search, conflicto competencia entre jueces)
+Expediente=156%2F2015&
+Buscar=Buscar&
+Circuito=4&
+CircuitoName=Cuarto+Circuito&
+Organismo=506& - (primer serach, html <option value>)
+OrgName=Tercer+Tribunal+Colegiado+en+Materia+Civil+del+Cuarto+Circuito& - (primer serach, html text)
+TipoOrganismo=0& ???
+Accion=1 ??? (search??)
+
+
